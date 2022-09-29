@@ -4,11 +4,11 @@ A theme for Ulancher inspired by [`Tokyo Night Theme`](https://github.com/enkia/
 
 ## Screenshots
 
-![SS](TokyoNight/Screenshots/1.png)
+![SS](Screenshots/1.png)
 
-![SS](TokyoNight/Screenshots/2.png)
+![SS](Screenshots/2.png)
 
-![SS](TokyoNight/Screenshots/3.png)
+![SS](Screenshots/3.png)
 
 ## Installation
 
@@ -25,5 +25,3 @@ git clone https://github.com/SirHades696/TokyoNight-Ulauncher-Theme \
 * [Surendrajat](https://github.com/Surendrajat/SeaOwl-Ulauncher-theme)
 
 * [Tokyo Night Theme](https://github.com/enkia/tokyo-night-vscode-theme)
-
-
